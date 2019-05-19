@@ -66,7 +66,7 @@ function drawFlowers(){
 
 function drawText(){
    context.fillStyle = "rgba(255,100,50,0.05)";
-   context.fillText("杨宏玉",-180,150);
+   context.fillText("杨  宏  玉",-180,150);
 }
 
 function drawName(){
