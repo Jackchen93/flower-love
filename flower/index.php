@@ -14,7 +14,7 @@
       <div style="clear:both;"></div>
 
    <footer style="">
-      <span>Powered By Moe</span><br />
+      <span>Powered By Cc</span><br />
       <a href="http://www.moevery.com">Moe's blog</a>
    </footer>
 </body>
